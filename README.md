@@ -1,6 +1,6 @@
 I'm Jakub - Software Engineer & Startup Founder.
 
-Senior engineer with 10+ years of professional IT experience, including 5+ years in crypto and 6 years working in Rust and Go. DeFi and FOSS advocate.
+Senior software engineer with 10+ years of professional IT experience, including 5+ years in crypto and over 6 years working in Rust and Go. DeFi and FOSS advocate.
 
 My specialization is decentralized finance. I've designed and written several protocols with successful launches.
 
