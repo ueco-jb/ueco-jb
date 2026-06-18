@@ -5,6 +5,7 @@ Senior software engineer with 10+ years of professional IT experience, including
 My specialization is decentralized finance. I've designed and written several protocols with successful launches.
 
 **More about me:** [jakub-dev.net](https://jakub-dev.net/)
+**Book a meeting:** [calendar.pioneerlabs.tech](https://calendar.pioneerlabs.tech)
 
 ### Featured work
 
