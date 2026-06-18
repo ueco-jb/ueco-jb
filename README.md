@@ -12,7 +12,7 @@ My specialization is decentralized finance. I've designed and written several pr
 - [Phoenix DeFi Hub](https://github.com/Phoenix-Protocol-Group/phoenix-contracts) - DEX on Soroban/Stellar
 - [WAVS](https://github.com/Lay3rLabs/WAVS) - tokio-based Rust platform for Autonomous Verified Services
 - [WYND](https://github.com/wynddao/wynddex) - multi-protocol DeFi suite on CosmWasm/Juno
-- [isthisjobascam](https://isthisjobascam.com) - an LLM-assisted tool automatic detection of scam offers and propositions
+- [isthisjobascam](https://isthisjobascam.com) - an LLM-assisted tool for an automatic detection of scam offers and propositions in job listings
 - [CosmWasm](https://github.com/CosmWasm/cosmwasm) - core contributor
 
 ### Stack
