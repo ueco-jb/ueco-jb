@@ -1,7 +1,7 @@
 I'm Jakub.
-Senior software engineer with 10+ years of professional IT experience, including 5+ years as a blockchain and smart contract engineer and over 6 years working in Rust and Go. DeFi and FOSS advocate.
+Software engineer with 10+ years of professional IT experience, including 5+ years as a blockchain and smart contract engineer, 6+ years working in Rust and 5+ in Go. DeFi and FOSS advocate.
 
-My specialization is decentralized finance. I've designed and written several protocols with successful launches.
+My specialization is decentralized finance. I've designed and written several protocols that launched on mainnet, including Phoenix and WYND.
 
 **More about me:** [jakub-dev.net](https://jakub-dev.net/) \
 **Book a meeting:** [calendar.pioneerlabs.tech](https://calendar.pioneerlabs.tech)
@@ -11,7 +11,7 @@ My specialization is decentralized finance. I've designed and written several pr
 - [Phoenix DeFi Hub](https://github.com/Phoenix-Protocol-Group/phoenix-contracts) - DEX on Soroban/Stellar
 - [WAVS](https://github.com/Lay3rLabs/WAVS) - tokio-based Rust platform for Autonomous Verified Services
 - [WYND](https://github.com/wynddao/wynddex) - multi-protocol DeFi suite on CosmWasm/Juno
-- [isthisjobascam](https://isthisjobascam.com) - an LLM-assisted tool for an automatic detection of scam offers and propositions in job listings
+- [isthisjobascam](https://isthisjobascam.com) - an LLM-assisted tool that detects scam job listings
 - [CosmWasm](https://github.com/CosmWasm/cosmwasm) - core contributor
 
 ### Stack
